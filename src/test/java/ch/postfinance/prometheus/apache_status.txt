@@ -1,0 +1,36 @@
+ServerVersion: Apache/2.4.41 (Ubuntu)
+ServerMPM: prefork
+Server Built: 2019-08-14T14:36:32
+CurrentTime: Friday, 20-Mar-2020 07:29:32 CET
+RestartTime: Friday, 20-Mar-2020 07:03:55 CET
+ParentServerConfigGeneration: 1
+ParentServerMPMGeneration: 0
+ServerUptimeSeconds: 1537
+ServerUptime: 25 minutes 37 seconds
+Load1: 0.41
+Load5: 0.36
+Load15: 0.88
+Total Accesses: 128
+Total kBytes: 212
+Total Duration: 94
+CPUUser: .04
+CPUSystem: .08
+CPUChildrenUser: 0
+CPUChildrenSystem: 0
+CPULoad: .00780742
+Uptime: 1537
+ReqPerSec: .0832791
+BytesPerSec: 141.241
+BytesPerReq: 1696
+DurationPerReq: .734375
+BusyWorkers: 1
+IdleWorkers: 5
+Scoreboard: ____W_................................................................................................................................................
+
+
+
+Scoreboard Key:
+"_" Waiting for Connection, "S" Starting up, "R" Reading Request,
+"W" Sending Reply, "K" Keepalive (read), "D" DNS Lookup,
+"C" Closing connection, "L" Logging, "G" Gracefully finishing,
+"I" Idle cleanup of worker, "." Open slot with no current process
